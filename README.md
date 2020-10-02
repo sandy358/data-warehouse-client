@@ -1,4 +1,6 @@
 # data-warehouse-client
+## Connect Autonomous Data Warehouse Using a Client Application
+The client computer must be prepared to use Oracle Net Services to connect to Autonomous Data Warehouse.
 
 To run:
 1. Clone the repo
